@@ -1,2 +1,2 @@
 # EmployeeManagerAppBackend
-Frontend code for employee manager app using angular.
+Backend code for employee manager app using Spring boot.
